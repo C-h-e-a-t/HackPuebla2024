@@ -1,0 +1,107 @@
+input {
+  padding: 0;
+  margin: 0;
+}
+
+html,body {
+  padding: 0;
+  margin: 0;
+  height: 220px;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+#URL {
+  height: 20px;
+}
+#container {
+  text-align: center;
+}
+
+#green {
+  width: 90px;
+}
+
+#img_div {
+    text-align: center;
+    width: 200px;
+    height: 90px;
+}
+
+#title_div {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+#modal {
+  display: none;
+}
+
+#modal_div {
+  display: none;
+}
+
+#modal:checked ~ #modal_div {
+  display: flex;
+}
+
+#scoreT {
+  text-align: center;
+  width: 100%;
+  margin: auto;
+}
+
+#modal_label {
+  padding: 0.5em 1em;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#label_div {
+  vertical-align: middle;
+  height: 23px;
+}
+
+#web {
+  margin-top: 15px;
+}
+
+#fuente {
+  margin-top: 15px;
+}
+
+.category {
+  width: 60%;
+}
+
+h2,h6,h4 {
+  padding: 0;
+  margin: 0;
+
+}
+
+h2 {
+  font-size: 18px;
+}
+
+a {
+    text-decoration: none; /* Sin subrayado por defecto */
+}
+
+a:hover {
+    text-decoration: underline; /* Subrayado al hacer hover */
+}
+
+.logo{
+  width: 70px;
+}
+
+.score{
+  width: 50px;
+}

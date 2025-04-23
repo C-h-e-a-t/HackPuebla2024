@@ -8,3 +8,5 @@
 <img src="https://github.com/C-h-e-a-t/Media/blob/main/TeCAI/TeCAI_bad.gif" alt="A GIF showing a facebook page titled 'The Flat Earth Society' failing the test" width = "800" />
 
 ### It Uses HTML, CSS and JavaScript. An API key for Gemini is required.
+
+### A special thanks to my collaborator @Merak12 for aiding me with this project
